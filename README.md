@@ -3,7 +3,7 @@ User is presented with 12 images. In order to achieve the highest possible score
 
 
 ## How to Play:
-- Open the app/game: https://firoz85.github.io/clicky-game/
+- Open the app/game: https://clicky-memory-game.netlify.com/
 - Click on any character tile you desire
 - The tiles will all reshuffle themselves
 - Click on another character, but REMEMBER that you can only click on a character once.
