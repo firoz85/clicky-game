@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "sydney",
+      "image":
+        "./images/sydney.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "opera",
+      "image":
+        "./images/opera.jpg",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "desert",
+      "image":
+        "./images/desert.jpg",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "perth",
+      "image":
+        "./images/perth.jpg",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "perth01",
+      "image":
+        "./images/perth01.jpg",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "perth02",
+      "image":
+        "./images/perth02.jpg",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "perth03",
+      "image":
+        "./images/perth03.jpg",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "perth04",
+      "image":
+        "./images/perth04.jpg",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "perth05",
+      "image":
+        "./images/perth05.jpg",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "perth06",
+      "image":
+        "./images/perth06.jpg",
+        "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "perth07",
+      "image":
+        "./images/perth07.jpg",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "perth08",
+      "image":
+        "./images/perth08.jpg",
+        "clicked": false
+    }
+]
+  
